@@ -10,3 +10,9 @@
 Apres execution le projet est deployer sur ce lien 
 
 ![Capture d’écran 2022-07-02 à 11 37 52 PM](https://user-images.githubusercontent.com/102439475/177018109-46869c13-5c27-4076-8ef7-ebfc7cbf1366.png)
+
+Le wsdl en utilisant un browser web
+
+![Capture d’écran 2022-07-02 à 11 49 24 PM](https://user-images.githubusercontent.com/102439475/177018140-9c686d81-5d62-4792-a823-c111f02088e7.png)
+
+
