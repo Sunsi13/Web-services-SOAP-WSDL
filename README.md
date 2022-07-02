@@ -18,3 +18,7 @@ Le wsdl en utilisant un browser web
 Teste des methodes du web service en utilisant SoapUi
 
 ![Capture d’écran 2022-07-02 à 11 53 22 PM](https://user-images.githubusercontent.com/102439475/177018212-fb8ad536-212d-48fb-bc37-a7d06afcf049.png)
+ 
+ Client Soap avec avec java
+ 
+ ![Capture d’écran 2022-07-02 à 11 56 07 PM](https://user-images.githubusercontent.com/102439475/177018281-c0a46cd9-d64a-4807-b858-d40c133b5ed4.png)
