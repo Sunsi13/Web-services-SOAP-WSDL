@@ -22,3 +22,5 @@ Teste des methodes du web service en utilisant SoapUi
  Client Soap avec avec java
  
  ![Capture d’écran 2022-07-02 à 11 56 07 PM](https://user-images.githubusercontent.com/102439475/177018281-c0a46cd9-d64a-4807-b858-d40c133b5ed4.png)
+
+![WhatsApp Image 2022-07-04 at 10 49 42 AM](https://user-images.githubusercontent.com/102439475/177130100-ca8bb65b-fff7-438a-a98d-bb04475cbee2.jpeg)
